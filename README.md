@@ -1,8 +1,7 @@
 # Halo semua! 
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m **Fauzi Rahman Dhani**
-- 💻 I’m currently Informatics Student at [Universitas Indraprasta PGRI](https://unindra.ac.id).
-- 🌱 I’m currently learning and will keep to learn the development of the programming world
+- 💻 I’m currently Back End Developer at [PT Adyatma Cendekia Sinergi Abadi].
 
 ## 📫 You can reach me on:
 - Email : [fauzirahmandhani@gmail.com](fauzirahmandhani@gmail.com)
